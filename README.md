@@ -97,12 +97,12 @@ jupyter notebook Sales_Insights.ipynb
 
 <table>
   <tr>
-    <td><img src="assets/Dashboard1.png" width="400"/></td>
-    <td><img src="assets/Furniture.png" width="400"/></td>
+    <td><img src="Dashboard1.png" width="400"/></td>
+    <td><img src="Furniture.png" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="assets/Clothing.png" width="400"/></td>
-    <td><img src="assets/Electronics.png" width="400"/></td>
+    <td><img src="Clothing.png" width="400"/></td>
+    <td><img src="Electronics.png" width="400"/></td>
   </tr>
 </table>
 
