@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/842df8fb-42ac-4bd0-b708-98692a08d6d9)# 📊 Sales Insights Report
+# 📊 Sales Insights Report
 
 This project provides a data-driven analysis of sales performance across different product categories using Python and Pandas. It includes detailed profitability evaluations and identifies key factors influencing sales trends.
 
